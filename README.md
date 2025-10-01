@@ -42,8 +42,7 @@ Three candidate models were evaluated:
 The selected model successfully captures the seasonal patterns and provides reliable 5-year forecasts, demonstrating practical application of time series analysis for energy consumption forecasting.
 
 ## Authors
-- Nishat Islam 
--Si Chen, Yanjin Chen, Joshua Gagnier
+- Nishat Islam , Si Chen, Yanjin Chen, Joshua Gagnier
 
 ## Course Context
 This project was completed as part of STAT 485 - Time Series Analysis at Simon Fraser University, Fall 2023.
